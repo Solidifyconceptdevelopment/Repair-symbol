@@ -8,5 +8,5 @@ Color options are full color, greyscale or black.
 
 <br />
 <p align="center">
-  <img  src="https://github.com/Solidifyconceptdevelopment/Repair-symbol/blob/main/0.5x/Repair%20logo%20color%200.5x.png">
+  <img  src="https://github.com/Solidifyconceptdevelopment/Repair-symbol/blob/main/Overview-logos.png">
 </p>

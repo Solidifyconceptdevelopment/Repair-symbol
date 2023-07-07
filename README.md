@@ -9,5 +9,8 @@ Color options are full color, greyscale or black.
 
 <br />
 <p align="center">
+  <img  src="https://github.com/Solidifyconceptdevelopment/Repair-symbol/blob/main/Recycle---repair.png">
+</p>
+<p align="center">
   <img  src="https://github.com/Solidifyconceptdevelopment/Repair-symbol/blob/main/Overview-logos.png">
 </p>

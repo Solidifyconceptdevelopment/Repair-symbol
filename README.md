@@ -15,6 +15,14 @@ Color options are full color, greyscale or black.
   <img  src="https://github.com/Solidifyconceptdevelopment/Repair-symbol/blob/main/Overview-logos.png">
 </p>
 
+<p align="center">
+  <img  src="https://github.com/wyolum/Repair-symbol_3d/blob/main/repair_logo_3D/renders/repair_logo_3D_05.png">
+</p>
+
+<p align="center">
+  <img  src="https://github.com/wyolum/Repair-symbol_3d/blob/main/repair_logo_3D/renders/repair_logo_3D_06.png">
+</p>
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
